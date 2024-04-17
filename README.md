@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahmid-Shuvo
-- 👀 I’m interested in CyberSecurity, DevOps and Cloud Security 
-- 🌱 I’m currently learning Docker
+- 👀 I’m interested in CyberSecurity, DevOps, Cloud Security and Blockchain  
+- 🌱 I’m currently Node.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
