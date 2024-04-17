@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fahmid-Shuvo
 - 👀 I’m interested in CyberSecurity, DevOps, Cloud Security and Blockchain  
-- 🌱 I’m currently Node.js 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Node.js and preparing to sit for CCNA exam.
+- 💞️ I’m looking to collaborate on ... Blockchain, OS Security, Web Application development, and eventually security. 
+- 📫 How to reach me ...fahmidshuvo@discord
 
 <!---
 Fahmid-Shuvo/Fahmid-Shuvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
