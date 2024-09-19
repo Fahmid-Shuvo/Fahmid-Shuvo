@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahmid-Shuvo
-- 👀 I’m interested in CyberSecurity, DevOps, Cloud Security and Blockchain  
-- 🌱 I’m currently learning Node.js and preparing to sit for CCNA exam.
+- 👀 I’m interested in Network Infrastructure, CyberSecurity, DevOps, Cloud Security and Blockchain  
+- 🌱 I’m currently learning Node.js and preparing to sit for AZ104.
 - 💞️ I’m looking to collaborate on ... Blockchain, OS Security, Web Application development, and eventually security. 
 - 📫 How to reach me ...fahmidshuvo@discord
 
