@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fahmid-Shuvo
-- 👀 I’m interested in Network Infrastructure, CyberSecurity, DevOps, Cloud Security and Blockchain  
-- 🌱 I’m currently learning Node.js and preparing to sit for AZ104.
-- 💞️ I’m looking to collaborate on ... Blockchain, OS Security, Web Application development, and eventually security. 
+- 👀 I’m interested in Network Infrastructure, CyberSecurity, DevOps, Cloud Security, and Blockchain  
+- 🌱 I’m currently learning Azure, AWS, DevOps, and preparing to sit for SC900
+- 💞️ I’m looking to collaborate on ... Cloud Infrastructure, DevOps, SOC analysis, Offensive Security, and Blue Team technologies 
 - 📫 How to reach me ...fahmidshuvo@discord
 
 <!---
